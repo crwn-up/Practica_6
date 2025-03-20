@@ -1,4 +1,5 @@
-
+// Luis Crown
+// Ejercicio 1
 #include <stdio.h>
 
 int main() {
